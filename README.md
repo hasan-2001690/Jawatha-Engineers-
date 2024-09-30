@@ -1,0 +1,3 @@
+Our team, based at Jawatha School in Alhasa, consists of three dedicated members with a passion for programming and robotics. Khalid, our programming expert, excels at coding and problem-solving, making him a key asset in our projects. Hasan, our coach, provides invaluable guidance and motivation, helping us refine our strategies and work effectively as a unit. Abdullah, our talented 3D modeler, brings our ideas to life with his impressive designs and visualizations.
+
+Together, we have competed in various prestigious events, including Athka and FLL, showcasing our skills and teamwork. Our experiences in these competitions have strengthened our bond and fueled our desire to excel further in the world of technology and robotics.
